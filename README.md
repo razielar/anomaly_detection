@@ -1,2 +1,2 @@
-# anomaly_detection
+# Anomaly detection
 Time-series Anomaly detection
